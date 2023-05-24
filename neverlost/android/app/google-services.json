@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864740829791",
+    "project_id": "bloc-flutter-gallary",
+    "storage_bucket": "bloc-flutter-gallary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864740829791:android:3fe70df2c3e8ad9c8f09ea",
+        "android_client_info": {
+          "package_name": "senpai.neverlost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864740829791-ocvl8od7ktpjamk30ve948v6rd83l77f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClT4AdUOTLIhxNBRuhMUdJQoYz1OuiCHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864740829791-ocvl8od7ktpjamk30ve948v6rd83l77f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
